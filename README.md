@@ -37,11 +37,11 @@
 
 ---
 
-<div align="center" width="160" height="160">
+<div align="center" width="1600" height="1600">
   There we have example of my different project : 
 </div>
 
-<div width="80" height="80">
+<div width="800" height="800">
   HangmanWeb : 
 </div>
 
