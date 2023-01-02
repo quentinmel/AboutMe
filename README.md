@@ -1,5 +1,5 @@
 <h1 align="center">
-  Hey There
+  Hi There
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 <div id="header" align="center">
@@ -38,7 +38,7 @@
 ---
 
 <h2 align="center">
-  <strong>There we have example of my different project : </strong>
+  <strong> There we have example of my different projects : </strong>
 </h2>
 
 <h4>
