@@ -34,3 +34,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="50" height="50"/>
 </div>
+
+---
+There we have example of my different project : 
+HangmanWeb
+![alt tag](https://user-images.githubusercontent.com/112957970/210276937-267aa5d6-1d4a-47bd-86e9-e0824bf650f9.png)
+![alt tag](https://user-images.githubusercontent.com/112957970/210276955-e464f33c-287d-409d-a53e-a9900eac05b3.png)
+
