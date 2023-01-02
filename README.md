@@ -41,9 +41,7 @@
   <strong>There we have example of my different project : </strong>
 </h2>
 
-<br>
-
-<h4 style="color:red;">
+<h4>
   HangmanWeb : 
 </h4>
 
