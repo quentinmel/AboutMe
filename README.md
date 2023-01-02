@@ -37,11 +37,13 @@
 
 ---
 
-<div align="center" width="1600" height="1600">
-  There we have example of my different project : 
-</div>
+<h2 align="center">
+  <strong>There we have example of my different project : </strong>
+</h2>
 
-<div width="800" height="800">
+<br>
+
+<div style="color:red;">
   HangmanWeb : 
 </div>
 
