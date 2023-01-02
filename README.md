@@ -39,5 +39,5 @@
 There we have example of my different project : 
 HangmanWeb
 ![alt tag](https://user-images.githubusercontent.com/112957970/210276937-267aa5d6-1d4a-47bd-86e9-e0824bf650f9.png)
-![alt tag](https://user-images.githubusercontent.com/112957970/210276955-e464f33c-287d-409d-a53e-a9900eac05b3.png)
+![alt tag](https://user-images.githubusercontent.com/112957970/210277262-bf3d25cc-8fa2-41b3-9a8b-120a3b5393c7.png))
 
